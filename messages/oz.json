@@ -1,0 +1,135 @@
+{
+    "Index": {
+      "title": "Ulangan resurslar",
+      "title2": "OneID bu nima?",
+      "description": "Yagona identifikatsiya tizimi (OneID) barcha foydalanuvchilar uchun davlat va xo‘jalik boshqaruvi organlari, mahalliy davlat hokimiyati organlari va tijorat tashkilotlarining turli veb-saytlari va portallariga oson kirish uchun mo‘ljallangan.",
+      "description2": "OneID veb-saytlarga bir qator xizmatlarni taqdim etish uchun foydalanuvchilarni identifikatsiya qilish imkonini beradi. Buning uchun foydalanuvchilar o‘zlarining shaxsiy maʼlumotlarini, jumladan login, parol, F.I.SH, JSHSHIR va hokazolarni oldindan OneIDda ro‘yxatdan o‘tkazishlari kerak.",
+      "description3": "Veb-saytga kirish uchun foydalanuvchi OneIDga o‘z akkauntidan login va parolni kiritishi kerak. Shundan so‘ng, tizim kiritilgan maʼlumotlarning muvofiqligini tekshiradi va autentifikatsiya natijasini foydalanuvchi identifikatori bilan birga qaytaradi.",
+      "description4": "OneID veb-saytlarga bir martalik parol va elektron raqamli imzo yordamida foydalanuvchilarning qo‘shimcha autentifikatsiyasini amalga oshirish imkoniyatini ham beradi. Buning uchun so‘rov parametrlarida afzal topilgan autentifikatsiya turini ko‘rsatish kerak.",
+      "subtitle1": "Yagona interaktiv davlat xizmatlari portali",
+      "subtitle2": "Jamoatchilik fikri portali",
+      "subtitle3": "O‘zbekiston Respublikasi Prezidentining virtual qabulxonasi",
+      "subtitle4": "O‘zbekiston Respublikasi normativ-huquqiy hujjatlar loyihalarini muhokama qilish",
+      "subtitle5": "O‘zbekiston Respublikasi garov ryestri",
+      "button": "Batafsil ma'lumot"
+    },
+    "SideBar": {
+      "Главная": "Bosh sahifa",
+      "Персональные данные": "Shaxsiy ma'lumotlar",
+      "Подлинность": "Haqqoniyligi",
+      "Юридическое лицо": "Yurdik shaxs",
+      "История": "Tarix",
+      "Сеансы": "Seanslar",
+      "Пользовательское соглашение": "Foydalanuvchilik kelishuvi",
+      "Помощь": "Yordam",
+      "О проекте": "Loyiha haqida",
+      "Выход": "Chiqish"
+    },
+    "UserAgreement": {
+      "title": "Foydalanish shartlari",
+      "description": "Ushbu Foydalanish kelishuvi (keyingi o‘rinlarda – Kelishuv) O‘zbekiston Respublikasi Fuqarolik kodeksining 369-moddasiga muvofiq O‘zbekiston Respublikasi Raqamli texnologiyalar vazirligi huzuridagi «Elektron hukumat loyihalarini boshqarish markazi” davlat muassasasi (keyingi o‘rinlarda – Markaz)ning ommaviy ofertasi hisoblanadi va har qanday murojaat qilgan jismoniy yoki yuridik shaxs (keyingi o‘rinlarda – Foydalanuvchi) bilan «Elektron hukumat” tizimi foydalanuvchilarini identifikatsiyalashning yagona axborot tizimini (keyingi o‘rinlarda – Identifikatsiya tizimi)dan foydalanish shartlari va qoidalarini belgilaydi.",
+      "termsText": "Ushbu Kelishuv shartlari barcha Foydalanuvchilar uchun bir hil hisoblanadi.",
+      "Terms and Definitions": {
+        "title": "1. Atamalar va taʼriflar",
+        "text": "В настоящем Соглашении применяются следующие термины и их определения:",
+        "strongText": "Elektron hukumat",
+        "strongText2": "Elektron davlat xizmati ",
+        "strongText3": "Foydalanuvchi",
+        "strongText4": "Jismoniy shaxs",
+        "strongText5": "Yuridik shaxs",
+        "strongText6": "ERI",
+        "subtitle1": "– davlat organlarining jismoniy va yuridik shaxslarga axborot-kommunikatsiya texnologiyalarini qo‘llash yo‘li bilan davlat xizmatlari ko‘rsatishga doir faoliyatini, shuningdek idoralararo elektron hamkorlik qilishni taʼminlashga qaratilgan tashkiliy-huquqiy chora-tadbirlar va texnik vositalar tizimi;",
+        "subtitle2": "— ariza beruvchilarning so‘rovlariga ko‘ra amalga oshiriladigan, davlat organlarining vazifalarini bajarish bo‘yicha ular tomonidan ko‘rsatiladigan xizmat. Agar qonun hujjatlariga muvofiq davlat xizmatlari ko‘rsatish funksiyalari boshqa tashkilotlar zimmasiga yuklatilgan bo‘lsa, ular ham davlat xizmatini ko‘rsatishlari mumkin;",
+        "subtitle3": "– davlat xizmatiga ehtiyoji bo‘lgan va uni olish uchun texnik imkoniyatiga ega bo‘lgan, ushbu Kelishuvda bayon qilingan shartlarda ushbu Kelishuvni tuzgan yuridk va/yoki jismoniy shaxs;",
+        "subtitle4": "— jismoniy shaxsning pasporti bo‘yicha aniqlanadigan jismoniy shaxsning shaxsiy identifikatsiya raqami (JShShIR)ga ega bo‘lgan O‘zbekiston Respublikasining fuqarosi, chet el fuqarosi yoki fuqaroligi bo‘lmagan shaxs;",
+        "subtitle5": "– O‘zbekiston Respublikasi qonun hujjatlariga muvofiq tashkil qilingan, soliq xizmati idoralarida hisobga olingan, soliq to‘lovchining identifikatsiya raqami (STIR)ga ega bo‘lgan tashkilot;",
+        "subtitle6": "– Davlat xizmatlari markazlaridan olish mumkin bo‘lgan elektron raqamli imzo."
+      },
+      "Subject of the Agreement": {
+        "title": "2. Kelishuv predmeti",
+        "subtitle1": "2.1. Markaz Identifikatsiya tizimi egasi hisoblangan holda elektron davlat xizmatlaridan ruxsat bilan foydalana olish uchun jismoniy va yuridik shaxslarga Identifikatsiya tizimidan ro‘yxatdan o‘tish imkoniyatini taqdim etadi.",
+        "subtitle2": "2.2. Identifikatsiya tizimi tomonidan «Elektron hukumat” tizimidan foydalana olish uchun Foydalanuvchilarni haqiqiy identifikatsiya, autentifikatsiya va avtorizatsiya qilish taʼminlanadi."
+      },
+      "Procedure for Conclusion of the Agreement": {
+        "title": "3. Kelishuvni tuzish tartibi",
+        "subtitle1": "3.1. Jismoniy shaxs Identifikatsiya tizimida ro‘yxatdan o‘tib, ushbu Kelishuv shartlarini so‘zsiz va to‘liq qabul qiladi hamda «Elektron hukumat” tizimining Foydalanuvchilarini identfikatsiyalash, autentifikatsiyalash va avtorizatsiyalashni taʼminlash, shuningdek, boshqa maqsadlar uchun o‘zining shaxsiy maʼlumotlarini qayta ishlash va saqlashga rozilik beradi.",
+        "subtitle2": "3.2. Identifikatsiya tizimida ro‘yxatdan o‘tguncha Foydalanuvchi ushbu Kelishuvning barcha shartlari bilan tanishishga majbur. Identifikatsiya tizimida ro‘yxatdan o‘tgan Foydalanuvchi ushbu Kelishuvning barcha shartlari bilan tanishgan va ularga rozi hisoblanadi, bunda Kelishuv ushbu ommaviy oferta shartlari asosida yozma shaklda tuzilgan hisoblanadi va ikki tomon tarafidan imzolangan Kelishuv hisoblanadi. Jismoniy shaxsning Identifikatsiya tizimida ro‘yxatdan o‘tgan vaqti ushbu Kelishuv tuzilgan payt hisoblanadi."
+      },
+      "Terms of Registration in the UIS": {
+        "title": "4. Identifikatsiya tizimida ro‘yxatdan o‘tish shartlari",
+        "subtitle1": "4.1. Identifikatsiya tizimida ro‘yxatdan o‘tish uchun Foydalanuvchi – jismoniy shaxs quyidagi maʼlumotlarni ko‘rsatishi kerak:",
+        "Biometric passport data": "biometrik pasport maʼlumotlari (JSHSHIR, biometrik pasport seriyasi va raqami, tug’ilgan sanasi (keyingi o‘rinlarda – shaxsiy maʼlumotlar);",
+        "Phone number": "login yoki parol yo‘qolganda, hisobga olish yozuvini birlamchi aktivatsiya qilish kodini olish va hisobga olish yozuvini (uchetnaya zapis) tiklash uchun mobil telefonning haqiqiy raqami;",
+        "Email address": "login yoki parol yo‘qolganda hisobga olish yozuvini tiklash uchun elektron pochtaning haqiqiy manzili;",
+        "text": "Elektron raqamli imzo kalitlari (keyingi o‘rinlarda – ERI)ning sertifikati bo‘lganda ERIdan foydalanib ro‘yxatdan o‘tish vaqtida o‘zining hisobga olish yozuvini tasdiqlash huquqiga ega. ERI kalitlarining sertifikati bo‘lmaganda ERIdan foydalanib hisobga olish yozuvini Identifikatsiya tizimida keyingi avtorizatsiya paytida tasdiqlash mumkin.",
+        "text2": "login yoki parol yo‘qolgan holda Foydalanuvchi hisobga olish yozuvini tiklash uchun elektron pochtaning haqiqiy manzilini ko‘rsatishi lozim;",
+        "subtitle2": "4.2. ERI kalitining sertifikati qayd etish ma’lumotlarini haqiqiyligini tasdiqlash yoqi tizimga kirish uchun qo’llanilganda, u ushbu harakatlarni bajarish paytida amalda bo’lishi kerak.",
+        "subtitle3": "4.3. Identifikatsiya tizimida ro‘yxatdan o‘tish uchun Foydalanuvchi – yuridik shaxs 4.1-bandga muvofiq avval jismoniy shaxsning hisobga olish yozuvini ro‘yxatdan o‘tkazishi kerak.",
+        "text3": "Jismoniy shaxsning hisobga olish yozuvini yaratgandan keyin jismoniy shaxs kabinetida quyidagilar orqali yuridik shaxsni qo‘shish kerak:",
+        "text4": "Yuridik shaxs ERI kalitining sertifikatini;",
+        "text5": "Yuridik shaxsning STIRni (tashkilot rahbari hisoblangan shaxslar uchun).",
+        "subtitle4": "4.4. Foydalanuvchini Yagona Identifikatsiyalash tizimida ro‘yxatdan o‘tkazishda Yagona interaktiv davlat xizmatlari portalida foydalanuvchi profili avtomatik ravishda yaratilishi mumkin.",
+        "subtitle5": "4.5. Yuridik shaxsni to‘ldiriladigan va O‘zbekiston Respublikasi Davlat soliq qo‘mitasiga topshiriladigan 8-son hisobot shaklida ko‘rsatilgan shaxslar ro‘yxatdan o‘tkazishi mumkin.",
+        "subtitle6": "4.6. Mobil telefonning logini, paroli va raqamini bir vaqtning o‘zida aks ettirish imkoni bo‘lmagan holda hisobga olish yozuvini ERIni qo‘llash yoki davlat xizmatlari markaziga murojaat qilish orqali tiklash mumkin."
+      },
+      "Rights and Obligations of the User": {
+        "title": "5. Foydalanuvchining huquqlari va majburiyatlari",
+        "subtitle1": "5.1. Foydalanuvchi quyidagi huquqlarga ega:",
+        "step1": "idoralararo elektron o‘zaro hamkorlikda davlat xizmatlarini ko‘rsatuvchi davlat organlari va boshqa tashkilotlardan ruxsat bilan foydalana olish uchun Identifikatsiya tizimida o‘z hisobga olish yozuvidan foydalanish.",
+        "step2": "O‘z shaxsiy maʼlumotlariga nisbatan O‘zbekiston Respublikasining «Shaxsiy maʼlumotlar to‘g‘risida”gi Qonuni 30-moddasining birinchi qismiga muvofiq xatti-harakatlarni amalga oshirish.",
+        "step3": "Istalgan vaqtda bir tomonlama tartibda ushbu kelishuvni bekor qilish va o‘zining hisobga olish yozuvini o‘chirib tashlash yo‘li orqali axborot tizimlari va resurslaridan foydalanishdan voz kechish.Qayd etish ma’lumotlarini o’chirish Markazga ariza taqdim etish orqali amalga oshiriladi.",
+        "subtitle2": "5.2. Identifikatsiya tizimidan Foydalanuvchi quyidagilarga majbur:",
+        "step4": "Identifikatsiya tizimi yoki Identifikatsiya tizimiga ulangan axborot tizimlarining ishlash jarayonini buzishga qaratilgan xatti-harakatlarni amalga oshirmaslik;",
+        "step5": "Ro‘yxatga olish va autentifikatsiyalashda ishonchli bo‘lgan maʼlumotlarni taqdim etish, shuningdek ularning aktual holatini taʼminlash, o‘zini boshqa shaxs yoki qandaydir tashkilot vakili qilib ko‘rsatmaslik, o‘zining ERIdan foydalanish;",
+        "step6": "Markaz tomonidan Kelishuv shartlariga kiritilgan o‘zgartirishlarga rozi bo‘lmaganda Identifikatsiya tizimidan foydalanishdan voz kechish va Identifikatsiya tizimiga ulangan axborot tizimlari, resurslari va servislaridan foydalanishni to‘xtatish;",
+        "step7": "o‘zining hisobga olish yozuvlarining saqlanishini taʼminlash uchun kerakli choralarni ko‘rish;",
+        "step8": "konfidensiallik yoki hisobga olish yozuvidan o‘zining foydalana olish vositalari (mobil telefon raqami, login va parol)ning saqlanishi buzilgan holda zudlik bilan login va/yoki parolni o‘zgartirish yoki Markazni xabardor qilish."
+      },
+      "Rights and Obligations of the Center": {
+        "title": "6. Markaz huquqlari va majburiyatlari",
+        "subtitle1": "6.1. Markaz quyidagi huquqlarga ega:",
+        "step1": "Identifikatsiya tizimida foydalanuvchining xatti-harakatlarining monitoringini o‘tkazish;",
+        "step2": "Foydalanuvchi tomonidan ushbu Kelishuv talablari buzilgan holda, foydalanuvchining Identifikatsiya tizimiga ulangan axborot tizimlaridan foydalana olishini, shu jumladan Identifikatsiya tizimidagi foydalanuvchining hisobga olish yozuvini bloklash orqali cheklash;",
+        "step3": "foydalanuvchidan olingan shaxsiy maʼlumotlardan (shu jumladan telefon raqamidan) foydalanuvchiga proaktiv davlat xizmatlarini taqdim etishda, shu jumladan ushbu xizmatlarni taqdim etish bilan bog‘liq xabarlarni yuborishda foydalanish.",
+        "step4": "Foydalanuvchining shaxsiy ma’lumotlarini qayta ishlash.",
+        "step5": "Dastlab Foydalanuvchini xabardor qilmasdan Identifikatsiya tizimidan foydalanishning ushbu shartlarini o‘zgartirish. O‘zgartirilgan shartlar Identifikatsiya tizimining bosh sahifasiga joylashtirilishi kerak.",
+        "step6": "Foydalanuvchiga axborot xabarlarini yuborish. Xabarlar tashqi-hamkor tashkilotlarni yordamida ham yuborilish mumkin.",
+        "subtitle2": "6.2. Markaz quyidagi majburiyatlarga ega:",
+        "step7": "Identifikatsiya tizimi ishlashini (Identifikatsiya tizimiga ulangan axborot tizimlaridan foydalanishda Identifikatsiya tizimi foydalanuvchilarini identifikatsiyalash, avtoriatsiyalash va autentifikatsiyalashni) taʼminlash;",
+        "step8": "Identifikatsiya tizimida foydalanuvchilar maʼlumotlarining butunligi va o‘zgarmasligini kafolatlash;",
+        "step9": "foydalanuvchilarning Identifikatsiya tizimiga murojaatlari hisobi va statistikasini yuritish;",
+        "step10": "qonun hujjatlari talablari va shaxsiy maʼlumotlardan foydalanish shartlariga muvofiq foydalanuvchining shaxsiy maʼlumotlarini himoyalashni taʼminlash;"
+
+      },
+      "Duration of the Agreement": {
+        "title": "7. Kelishuvning amal qilish muddati",
+        "subtitle1": "7.1. Ushbu Kelishuv Foydalanuvchining Identifikatsiya tizimida ro‘yxatdan o‘tgan vaqtdan boshlab kuchga kiradi va Tomonlar tarafidan to‘liq bajarilgunchaga amal qiladi."
+      },
+      "Responsibility": {
+        "title": "8. Javobgarlik",
+        "subtitle1": "8.1. Markaz uning aybi bilan yuzaga kelmagan shaxsiy maʼlumotlarning yo‘qolganligi uchun Foydalanuvchi oldida javobgar bo‘lmaydi.",
+        "subtitle2": "8.2. Markaz Identifikatsiya tizimi faoliyatidagi nosozliklar yoki ishlash qobiliyatining yo‘qolishi uchun javobgar bo‘lmaydi, agar ko‘rsatilgan nosozliklar yoki ishlash qobiliyatining yo‘qolishi quyidagilar oqibatida sodir bo‘lgan bo‘lsa:",
+        "step1": "uchinchi shaxslarning Identifikatsiya tizimi dasturiy taʼminotidan ruxsatsiz foydalanishiga va/yoki ko‘rsatilgan dasturiy taʼminotning ishdan chiqishiga qaratilgan xatti-harakatlari.",
+        "step2": "ulangan veb-servislarning ishlamay qolishi.",
+        "subtitle3": "8.3. Markaz Identifikatsiya tizimidan foydalanish yoki foydalanish imkoniyati bo‘lmaganligi sababli sodir bo‘lgan har qanday bevosita va bilvosita zararlar uchun javobgar bo‘lmaydi.",
+        "subtitle4": "8.4. Markaz quyidagi hollarda Foydalanuvchining hisobga olish yozuvining xavfsizligi uchun javobgar bo‘lmaydi:",
+        "step3": "Foydalanuvchi tomonidan uchinchi shaxslarga (qasddan yoki ehtiyotsizlik sababli) parol va shaxsiy maʼlumotlarning taqdim etilishi;",
+        "step4": "parolni tanlash va/yoki kodni ochish imkonini beradigan dasturiy vositalardan foydalanish oqibatida Foydalanuvchining hisobga olish yozuvidan uchinchi shaxslarning foydalanishi;",
+        "step5": "parol va hisobga olish maʼlumotlarini tanlash (podbor) yo‘li bilan Foydalanuvchi hisobga olish yozuvidan uchinchi shaxslarning foydalanishi.",
+        "subtitle5": "8.5. Foydalanuvchi fuqarolik, jinoyat qonun hujjatlari, shuningdek maʼmuriy huquqbuzarliklar to‘g‘risidagi qonun hujjatlari talablariga muvofiq taqdim etilgan shaxsiy maʼlumotlarning ishonchliligi, shu jumladan ularning o‘z vaqtida yangilanishi va tuzatilishiga to‘liq javobgar bo‘ladi.",
+        "subtitle6": "8.6. Foydalanuvchi ushbu Kelishuv bo‘yicha o‘zining vazifalariga rioya etmaganligi sababli Markazga yetkazilgan zarar uchun javobgar bo‘ladi.",
+        "subtitle7": "8.7. Foydalanuvchi hisobga olish yozuvidan foydalanish uchun o‘zi tanlab olgan vositalarning xavfsizligi (shuningdek aniqlashga nisbatan barqarorlik), saqlanishi uchun shaxsan javobgar bo‘ladi, shuningdek ularning maxfiyligini mustaqil taʼminlaydi. Bunda Foydalanuvchining hisobga olish yozuvi ostidagi barcha xatti-harakatlari Foydalanuvchi tomonidan amalga oshirilgan deb hisoblanadi.",
+        "subtitle8": "8.8. Tomonlar ushbu Kelishuv bo‘yicha majburiyatlarni qisman yoki to‘liq bajarmaganligi uchun javobgar bo‘lmaydi, agar bunday bajarmaslik ushbu Kelishuv tuzilgandan keyin va Tomonlar oqilona chora-tadbirlar bilan oldini ololmagan favqulodda tusidagi hodisalar (fors-major) natijasida paydo bo‘lgan yengib bo‘lmas kuchlar holatining oqibati hisoblansa. Bunday favqulodda tusidagi hodisalarga Kelishuvni bajarishga to‘sqinlik qiluvchi suv toshqini, yong‘in, zilzila, tuproq cho‘kishi va boshqa tabiiy ofatlar; urush yoki harbiy harakatlar, embargo, qamallar, hukumat harakatlari kirishi mumkin."
+      },
+      "Procedure for consideration of claims": {
+        "title": "9. Daʼvolarni ko‘rib chiqish tartibi",
+        "subtitle1": "9.1. Markaz ushbu Kelishuv bo‘yicha majburiyatlarini bajarmagan yoki lozim darajada bajarmaganda Foydalanuvchi Markazga yozma yoki elektron shakldagi daʼvosini taqdim etish huquqiga ega.",
+        "subtitle2": "9.2. Markaz O‘zbekiston Respublikasining «Jismoniy va yuridik shaxslarning murojaatlari to‘g‘risida”gi Qonunida belgilangan tartibda kelib tushgan sanadan boshlab 15 kun ichida daʼvoni ko‘rib chiqishi va unga javob berishi, agar qo‘shimcha o‘rganish va (yoki) tekshirish, qo‘shimcha hujjatlarni so‘rash talab qilinganda bir oygacha bo‘lgan muddatda daʼvoni ko‘rib chiqishga majbur. Daʼvoga javob buyurtma xat orqali, elektron shaklda yuboriladi yoki Foydalanuvchiga imzo qo‘ydirgan holda taqdim etiladi.",
+        "subtitle3": "9.3. Agar Foydalanuvchi taqdim etilgan javobdan qoniqmaganda, u O‘zbekiston Respublikasi Raqamli texnologiyal vazirligiga shikoyat qilish huquqiga ega."
+      },
+      "Settlement of disputes": {
+        "title": "Nizolarni hal qilish tartibi",
+        "subtitle1": "10.1. Ushbu Kelishuvni bajarish bo‘yicha barcha nizolar va kelishmovchiliklar Tomonlar tarafidan O‘zbekiston Respublikasining amaldagi qonun hujjatlariga muvofiq hal etiladi."
+      }
+    }
+}

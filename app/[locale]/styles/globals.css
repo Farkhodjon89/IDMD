@@ -1,0 +1,154 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  height: 100%;
+  user-select: none;
+}
+
+.sidebar {
+  overflow-y: auto; /* Use 'auto' to show scrollbar only when needed */
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  max-height: 100vh;
+  transition: width 0.3s;
+}
+
+.collapsed {
+  max-width: 112px;
+}
+
+.grayscale-mode {
+  filter: grayscale(100%);
+}
+
+.sidebar::-webkit-scrollbar {
+  width: 5px;
+  height: 100dvh;
+}
+
+.sidebar::-webkit-scrollbar-thumb {
+  background-color: #acacac;
+  border-radius: 5px;
+}
+
+.sidebar::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+.sidebar {
+  transition: width 0.3s ease; /* Добавляем анимацию при изменении ширины */
+}
+
+.sidebar-collapsed {
+  width: 60px; /* Уменьшенная ширина сайдбара */
+}
+
+.sidebar-collapsed .material-icons {
+  display: none; /* Скрытие текста, оставляем только иконки */
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+}
+/* Set max-height to a large value to show the content when open */
+.accordion-content.open {
+  max-height: 1000px;
+}
+.accordion .transform.rotate-180 {
+  transform: rotate(180deg);
+}
+@keyframes pulse {
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+/* Скрыть контент всех вкладок по умолчанию */
+.tabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tablinks {
+  background-color: #ffffff;
+  color: #333;
+  border: none;
+  cursor: pointer;
+  padding: 15px 30px;
+  margin: 0 10px;
+  border-bottom: 3px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.tablinks.active {
+  border-color: #007bff;
+}
+
+.tabcontent {
+  display: none;
+  padding: 20px;
+}
+
+.tabcontent.active {
+  display: block;
+}
+
+#exTab1 .tab-content {
+  color: black;
+  background-color: #fff;
+  padding: 5px 15px;
+  width: 700px;
+  min-height: 250px;
+  border-radius: 0 5px 5px 5px;
+  -webkit-box-shadow: -1px 24px 52px -33px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 24px 52px -33px rgba(0, 0, 0, 0.75);
+  box-shadow: -1px 24px 52px -33px rgba(0, 0, 0, 0.75);
+}
+
+#exTab1 .nav-pills > li > a {
+  border-radius: 2px;
+  background-color: #fff;
+  color: black;
+}
+
+#exTab1 .nav-pills > li > a:hover,
+#exTab1 .nav-pills > li > a:focus {
+  background-color: blue;
+}
+
+#exTab1 .nav-pills > li.active > a,
+#exTab1 .nav-pills > li.active > a:hover,
+#exTab1 .nav-pills > li.active > a:focus {
+  background-color: white;
+}
+
+#exTab1 .nav-pills > li:not(.active) > a {
+  background-color: #3b565d;
+  color: white;
+}
+
+@media screen and (max-width: 1024px) {
+  #exTab1 .tab-content {
+    width: 600px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #exTab1 .tab-content {
+    width: 350px;
+  }
+}

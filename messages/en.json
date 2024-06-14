@@ -1,0 +1,136 @@
+{
+    "Index": {
+      "title": "Connected resources",
+      "title2": "What is OneID?",
+      "description": "One ID Single Identification System is intended to provide easy access for all users to various websites and portals of public authorities, local government bodies and commercial organizations.",
+      "description2": "One ID SIS allows websites to identify users to provide a range of services. For that, users must register their personal data in One ID SIS beforehand, including login, password, full name, personal identification number of an individual, etc.",
+      "description3": "In order to enter the website, a user must enter the login and password of his/her account in One ID SIS. After that, the system will check the identity of the entered data and return an authentication result along with a user ID.",
+      "description4": "One ID SIS also allows websites to implement additional authentication of their users using a one-time password and a digital signature. For that, it is necessary to specify a preferred type of authentication in the request parameters.",
+      "subtitle1": "Single portal of interactive government services",
+      "subtitle2": "Public Opinion Portal",
+      "subtitle3": "Virtual reception of the President of the Republic of Uzbekistan",
+      "subtitle4": "Discussion of draft regulatory documents of the Republic of Uzbekistan",
+      "subtitle5": "Pledge registry of the Republic of Uzbekistan",
+      "button": "To learn more"
+    },
+    "SideBar": {
+      "Главная": "Home",
+      "Персональные данные": "Personal data",
+      "Подлинность": "Authenticity",
+      "Юридическое лицо": "Legal entity",
+      "История": "History",
+      "Сеансы": "Sessions",
+      "Пользовательское соглашение": "User agreement",
+      "Помощь": "Help",
+      "О проекте": "About a project",
+      "Выход": "Exit"
+    },
+    "UserAgreement": {
+      "title": "User Agreement",
+      "description": "This User Agreement (hereinafter referred to as the 'Agreement') in accordance with Article 369 of the Civil Code of the Republic of Uzbekistan constitutes a public offer from the State Unitary Enterprise 'Electronic Government Project Management Center' under the Ministry of Digital Technologies of the Republic of Uzbekistan (hereinafter referred to as the 'Center') and defines the terms and rules for using the unified information system for user identification in the 'Electronic Government' system (hereinafter referred to as the 'UIS'), upon which this Agreement is concluded with any physical or legal person (hereinafter referred to as the 'User').",
+      "termsText": "The terms of this Agreement are uniform for all Users.",
+      "Terms and Definitions": {
+        "title": "1. Terms and Definitions",
+        "text": "In this Agreement, the following terms and their definitions apply:",
+        "strongText": "Electronic Government",
+        "strongText2": "Electronic Government Service",
+        "strongText3": "User",
+        "strongText4": "Natural Person",
+        "strongText5": "Legal Entity",
+        "strongText6": "DS",
+        "subtitle1": "— a system of organizational, legal measures, and technical means aimed at facilitating the activities of state bodies in providing public services to individuals and legal entities through the application of information and communication technologies, as well as interdepartmental electronic interaction.",
+        "subtitle2": "— a service provided by state bodies using information and communication technologies to fulfill their functions in response to requests from applicants. Other organizations may also provide public services in cases where they are assigned functions to provide public services in accordance with the legislation.",
+        "subtitle3": "— a legal and/or natural person in need of a public service and having the technical capability to receive it, who has entered into this Agreement on the terms set forth herein:",
+        "subtitle4": "— a citizen of the Republic of Uzbekistan, a foreign citizen, or a stateless person, having a personal identification number of a natural person (PINFL),",
+        "subtitle5": "— an organization established in accordance with the legislation of the Republic of Uzbekistan, registered with the tax authorities, having a taxpayer identification number (TIN).",
+        "subtitle6": "— Electronic Digital Signature, which can be obtained at the Centers for Public Services."
+      },
+      "Subject of the Agreement": {
+        "title": "2. Subject of the Agreement",
+        "subtitle1": "2.1. The Center, being the owner of the EIS, provides individuals and legal entities with the opportunity to register in the EIS to obtain authorized access to electronic government services.",
+        "subtitle2": "2.2. The EIS ensures authentic identification, authentication, and authorization of Users to access the 'Electronic Government' system."
+      },
+      "Procedure for Conclusion of the Agreement": {
+        "title": "3. Procedure for Conclusion of the Agreement",
+        "subtitle1": "3.1. By registering in the EIS, a natural person unconditionally and fully accepts the terms of this Agreement and consents to the processing and storage of their personal data to ensure authentic identification, authentication, and authorization of Users of the 'Electronic Government' system, as well as for other purposes.",
+        "subtitle2": "3.2. Before registering in the EIS, the User is obliged to familiarize themselves with all the terms of this Agreement. A User who has completed registration in the EIS is considered to have familiarized themselves with and agreed to all the terms of this Agreement, whereby the Agreement is considered concluded in writing on the terms of this public offer and is an Agreement signed by two parties. The moment of conclusion of this Agreement is the registration of a natural person in the EIS."
+      },
+      "Terms of Registration in the UIS": {
+        "title": "4. Terms of Registration in the UIS",
+        "subtitle1": "4.1. To register in the EIS, the User - a natural person, must provide the following data:",
+        "Biometric passport data": "biometric passport data (PINFL, series and number of the biometric passport, date of birth (hereinafter referred to as personal data));",
+        "Phone number": "valid mobile phone number, to receive the activation code for the account and to recover the account in case of loss of login or password;",
+        "Email address": "Valid email address, to recover the account in case of loss of login or password.",
+        "text": "If the user has an electronic digital signature (hereinafter referred to as EDS) certificate, the user has the right to confirm their account at the time of registration using the EDS. In the absence of an EDS certificate, the confirmation of the account using the EDS can be carried out during subsequent authorizations in the EIS.оризаций в ЕСИ).",
+        "text2": "The user must provide a valid email address for account recovery in case of loss of login or password.",
+        "subtitle2": "4.2. If you use an electronic digital signature key certificate to confirm the authenticity of an account or login, it must be valid at the time of performing the specified actions.",
+        "subtitle3": "4.3. To register in the EIS, a User - a legal entity, must first register the account of a natural person in accordance with paragraph 4.1.",
+        "text3": "After creating the account of a natural person, it is necessary to add a legal entity in the personal account by:",
+        "text4": "Adding the legal entity's EDS certificate.",
+        "text5": "*The TIN (Taxpayer Identification Number) of the legal entity (for individuals acting as the heads of organizations).",
+        "subtitle4": "4.4. When registering a user in the Unified Identification System, a user profile may be automatically created on the Unified Portal of Interactive Public Services.",
+        "subtitle5": "4.5. Registration of a legal entity may be carried out by individuals listed in Form No. 8, completed and submitted to the State Tax Committee of the Republic of Uzbekistan.",
+        "subtitle6": "4.6. In case of inability to reproduce the login, password, and mobile phone number simultaneously, the account recovery is carried out using the EDS or by contacting the center for public services."
+      },
+      "Rights and Obligations of the User": {
+        "title": "5. Rights and Obligations of the User",
+        "subtitle1": "5.1. The user has the right:",
+        "step1": "To utilize their EIS account for authorized access to governmental bodies and other organizations providing public services, during interdepartmental electronic interaction.",
+        "step2": "To perform actions regarding their personal data in accordance with the first part of Article No. 30 of the Law of the Republic of Uzbekistan 'On Personal Data'.",
+        "step3": "At any time, unilaterally terminate this agreement and opt-out of using the information systems and resources by deleting their account. Account deletion is carried out by submitting a request to the Center.",
+        "subtitle2": "5.2. The EIS user is obligated to:",
+        "step4": "Not engage in actions aimed at disrupting the operation of the EIS or information systems connected to the EIS.",
+        "step5": "Provide accurate data during registration and authentication, as well as keep them up to date, not impersonate another person or representative of any organization, and use their own EDS.",
+        "step6": "In case of disagreement with changes made to the terms of the Agreement by the Center, refuse access to the EIS and cease the use of information systems, resources, and services connected to the EIS.",
+        "step7": "Take appropriate measures to ensure the security of their accounts.",
+        "step8": "Immediately change the login and/or password or notify the Center in case of a breach (or suspicion of breach) of confidentiality or security of their access credentials (mobile phone number, login, and password) to the account."
+
+      },
+      "Rights and Obligations of the Center": {
+        "title": "6. Rights and Obligations of the Center",
+        "subtitle1": "6.1. The Center has the right to:",
+        "step1": "Conduct monitoring of user actions in the EIS.",
+        "step2": "In case of a user's violation of the terms of this Agreement, restrict the user's access to information systems connected to the EIS, including by blocking the user's account in the EIS.",
+        "step3": "Use the personal data provided by the user (including phone number) to provide proactive government services to the user, including sending messages related to the provision of such services.",
+        "step4": "Process the user's personal data.",
+        "step5": "Change the terms of use of the EIS without prior notice to the User. The modified terms must be posted on the main page of the EIS.",
+        "step6": "Send informational messages to the User, including using third-party partner organizations.",
+        "subtitle2": "6.2. The Center is obligated to:",
+        "step7": "Ensure the functioning of the EIS (identification, authorization, and authentication of EIS users when accessing information systems connected to the EIS).",
+        "step8": "Guarantee the integrity and unchanged nature of user data in the EIS.",
+        "step9": "Maintain records and statistics of user interactions with the EIS.",
+        "step10": "Ensure the protection of user personal data in accordance with legislative requirements and the Terms of Use of personal data."
+
+      },
+      "Duration of the Agreement": {
+        "title": "7. Duration of the Agreement",
+        "subtitle1": "7.1. This Agreement enters into force from the moment of the User's registration in the EIS and remains in effect until it is fully executed by the Parties."
+      },
+      "Responsibility": {
+        "title": "8. Responsibility",
+        "subtitle1": "8.1. The Center shall not be liable to the User for the loss of personal data that occurred through no fault of its own.",
+        "subtitle2": "8.2. The Center shall not be liable for malfunctions or non-functionality of the EIS if such malfunctions or non-functionality resulted from:",
+        "step1": "Actions by third parties aimed at unauthorized access to the EIS software and/or disrupting said software.",
+        "step2": "Non-functionality of connected web services.",
+        "subtitle3": "8.3. The Center shall not be liable for any direct or indirect losses incurred due to the use or inability to use the EIS.",
+        "subtitle4": "8.4. The Center shall not be liable for the security of the user's account in the following cases:",
+        "step3": "User intentionally or negligently disclosing their password and personal data to third parties.",
+        "step4": "Access by third parties to the user's account as a result of using software that allows for password guessing and/or decryption.",
+        "step5": "Access by third parties to the user's account through password and account data guessing.",
+        "subtitle5": "8.5. The User bears full responsibility for the accuracy of the provided personal data, as well as for timely updating and correction thereof, in accordance with the requirements of civil, criminal legislation, as well as legislation on administrative offenses.",
+        "subtitle6": "8.6. The User is responsible for any damages caused to the Center due to their failure to comply with the obligations under this Agreement.",
+        "subtitle7": "8.7. The User is personally responsible for the security (including resistance to guessing) and integrity of the access means chosen by them for accessing the account, and also ensures their confidentiality independently. In this case, all actions under the User's account are considered to be performed by the User themselves.",
+        "subtitle8": "8.8. The Parties to this Agreement shall not be liable for full or partial non-performance of their obligations under the Agreement if such non-performance was caused by force majeure circumstances arising after the conclusion of the Agreement as a result of extraordinary events that they could neither foresee nor prevent by reasonable measures (force majeure). Such extraordinary events include: flood, fire, earthquake, soil subsidence, and other natural disasters; war or military actions, embargoes, blockades, actions by authorities that impede the performance of the Agreement."
+      },
+      "Procedure for consideration of claims": {
+        "title": "9. Procedure for consideration of claims",
+        "subtitle1": "9.1. In case of non-performance or improper performance of obligations by the Center under this Agreement, the User has the right to submit a claim to the Center in written or electronic form.",
+        "subtitle2": "9.2. The Center is obliged to consider the claim in the manner prescribed by the Law of the Republic of Uzbekistan 'On Appeals of Individuals and Legal Entities' within fifteen days from the date of receipt and provide a response, and when additional study and/or verification are required, request additional documents within a period of up to one month. The response to the claim is sent by registered mail, in electronic form, or delivered to the User against signature.",
+        "subtitle3": "9.3. If the User is not satisfied with the response provided, they have the right to file a complaint with the Ministry of Digital Development of the Republic of Uzbekistan."
+      },
+      "Settlement of disputes": {
+        "title": "10. Settlement of disputes",
+        "subtitle1": "10.1. All disputes and disagreements arising from the execution of this Agreement are resolved by the parties in accordance with the current legislation of the Republic of Uzbekistan."
+      }
+    }
+}
