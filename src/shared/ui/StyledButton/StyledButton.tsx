@@ -1,4 +1,4 @@
-import { type ButtonHTMLAttributes, type FC } from "react";
+import { type ButtonHTMLAttributes } from "react";
 import { classNames } from "@/shared/lib/classNames/classNames";
 
 export enum ThemeButton {
@@ -10,7 +10,7 @@ interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   theme?: ThemeButton;
 }
 
-export const StyledButton: FC<ButtonProps> = (props) => {
+export const StyledButton = (props: ButtonProps) => {
   const { className = "", theme = "", children, ...otherProps } = props;
 
   return (
